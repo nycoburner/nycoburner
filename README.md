@@ -9,10 +9,9 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/guilty-gear-faust-gif-21005861"  />
-
-###
+ <div align="right">
+  <img height="200" src="https://i.gifer.com/CtQl.gif"  />
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
