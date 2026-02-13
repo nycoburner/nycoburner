@@ -2,6 +2,14 @@
 <h2 align="center">Yo! what's up?</h2>
 
 ###
+<h1 align="left">Some things about me:</h1>
+
+###
+
+<h3 align="left">📚 I'm currently learning:Systems Analysis and Development<br>🎯 Goals:Become a great developer!<br>🎲 Fun fact:I can speak English very well</h3>
+
+###
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nycoburner&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
