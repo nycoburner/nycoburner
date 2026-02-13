@@ -1,8 +1,8 @@
 
-<h2 align="center">Yo! what's up?</h2>
+<h1 align="center">Yo! what's up?</h1>
 
 ###
-<h1 align="left">Some things about me:</h1>
+<h2 align="left">Some things about me:</h2>
 
 ###
 
