@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">📚 I'm currently learning:Systems Analysis and Development<br>🎯 Goals:Become a great developer!<br>🎲 Fun fact:I can speak English very well</h3>
+<h3 align="left">📚 I'm currently learning:Systems Analysis and Development<br>🎯 Goals:Become a great developer!<br>🎲 Fun fact:I can speak English very well <br> E a minha aula favorita é back-end</h3>  
 
 ###
 ###
